@@ -5,5 +5,7 @@ All balances are measured in Gs, named of course after His Excellence Guthrie Gm
 
 ## Balances
 
-**Emeline** 0 </br>
+**Emeline** 0
+
+
 **Jack** 0
